@@ -98,13 +98,13 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Sbank-Dev  Releases Nexus Repository</name>
+	      <name>yes-bank-release</name>
 	      <url>http://54.178.91.87:8081/repository/yes-bank-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Sbank-Dev  Snapshot Nexus Repository </name>
+	      <name>yes-bank-snapshot</name>
 	      <url>http://54.178.91.87:8081/repository/yes-bank-snapshot/</url>
 	    </snapshotRepository>
 	    
